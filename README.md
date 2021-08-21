@@ -9,4 +9,5 @@ The purpose of this repository is just as my own portfolio, just to showcase tha
 # Layout
 ![]()
 # 3D
-![]()
+![](https://raw.githubusercontent.com/ThriftyOldStudent/miniESP/main/miniESP32_3d_front.png)
+![](https://raw.githubusercontent.com/ThriftyOldStudent/miniESP/main/miniESP32_3d_back.png)
