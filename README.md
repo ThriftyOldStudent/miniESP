@@ -5,7 +5,24 @@ The purpose of this repository is just as my own portfolio, just to showcase tha
 # Schematic
 ![](https://raw.githubusercontent.com/ThriftyOldStudent/miniESP/main/miniESP32.png)
 # Bill of Material (BOM)
-![]()
+| Reference      | Value | Footprint |
+| ----------- | ----------- | ----------- |
+| Header      | Title       |  |
+| Paragraph   | Text        |  |
+| >  C1, C4, C5	 | 1n	 | Capacitor_SMD:C_0402_1005Metric |
+|    C2	 | 100u	 | Capacitor_SMD:C_1206_3216Metric |
+|    C3	 | 1u	 | Capacitor_SMD:C_0402_1005Metric |
+|    J1	 | Conn_01x06_Male	 | Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical |
+| >  J2, J3 | 	Conn_02x06_Odd_Even	 | Connector_PinHeader_2.54mm:PinHeader_2x10_P2.54mm_Vertical_SMD |
+| >  Q1, Q2	 | S8050	 | Package_TO_SOT_SMD:SOT-23 |
+| >  R1, R9, R10	 | 12k	 | Resistor_SMD:R_0805_2012Metric |
+| >  R2, R3	 | 5k	 | Resistor_SMD:R_0805_2012Metric |
+| >  R4, R11	 | 470	 | Resistor_SMD:R_0805_2012Metric |
+| >  R5, R6	 | 0	 | Resistor_SMD:R_0402_1005Metric |
+|     SW1	 | EN | 	Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK |
+|     SW2	 | BOOT	 | Button_Switch_SMD:SW_Push_SPST_NO_Alps_SKRK |
+|    U1	 | ESP32-WROOM-32D	 | ESP32-WROOM-32 |
+
 # Layout
 ![]()
 # 3D
