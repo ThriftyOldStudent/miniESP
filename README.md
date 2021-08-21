@@ -7,8 +7,6 @@ The purpose of this repository is just as my own portfolio, just to showcase tha
 # Bill of Material (BOM)
 | Reference      | Value | Footprint |
 | ----------- | ----------- | ----------- |
-| Header      | Title       |  |
-| Paragraph   | Text        |  |
 | >  C1, C4, C5	 | 1n	 | Capacitor_SMD:C_0402_1005Metric |
 |    C2	 | 100u	 | Capacitor_SMD:C_1206_3216Metric |
 |    C3	 | 1u	 | Capacitor_SMD:C_0402_1005Metric |
